@@ -9,7 +9,7 @@ I've been coding for over three years (in my spare time). I started with javascr
 * 🌍  I'm based in Manchester England
 * ✉️  You can contact me at [oamoscovitch@gmail.com](mailto:oamoscovitch@gmail.com)
 * 🚀  I'm currently working on [International Wages Manager App.](http://github.com/Osher-A/InternationalWagesManager )
-* 🧠  I'm learning .Net Maui
+* 🧠  I'm currently learning .Net Maui
 
 ### Skills
 
