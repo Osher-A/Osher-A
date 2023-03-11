@@ -4,7 +4,7 @@ Hi 👋 My name is Osher Moscovitch
 .NET Developer
 --------------
 
-I've been coding for over three years. I started with javascript, however, after a few months, I got hooked on C#. I took many courses covering C# fundamentals, SQL & .Net. I spent a lot of time building desktop applications with WPF, and web apps with Blazor.
+I've been coding for over three years. I started with javascript, however, after a few months, I got hooked on C#. I took many courses covering C# fundamentals, SQL & .Net. I've spent a significant amount of time building desktop applications with WPF and web apps with Blazor.
 
 * 🌍  I'm based in Manchester England
 * ✉️  You can contact me at [oamoscovitch@gmail.com](mailto:oamoscovitch@gmail.com)
