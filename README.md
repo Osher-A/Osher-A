@@ -4,12 +4,16 @@ Hi 👋 My name is Osher Moscovitch
 .NET Developer
 --------------
 
-I've been coding for over three years. I started with javascript, however, after a few months, I got hooked on C#. I took many courses covering C# fundamentals, SQL & .Net. I've spent a significant amount of time building desktop applications with WPF and web apps with Blazor.
+I've been coding for more than three years, with a focus on C# development. I've taken various courses and learned the fundamentals of C#, .NET, and SQL. During this time, I've worked on numerous full-stack desktop and web applications, using a variety of .NET frameworks and more recently, Angular.
+
+If you're interested in seeing some of my work, feel free to check out my projects on GitHub.
+
+Thanks for dropping by!
 
 * 🌍  I'm based in Manchester England
 * ✉️  You can contact me at [oamoscovitch@gmail.com](mailto:oamoscovitch@gmail.com)
 * 🚀  I'm currently working on [International Wages Manager App.](http://github.com/Osher-A/InternationalWagesManager )
-* 🧠  I'm currently learning .Net Maui & Angular
+* 🧠  I'm currently learning Vue.js
 
 ### Skills
 
