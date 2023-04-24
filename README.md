@@ -8,8 +8,6 @@ I've been coding for more than three years, with a focus on C# development. I've
 
 If you're interested in seeing some of my work, feel free to check out my projects on GitHub.
 
-Thanks for dropping by!
-
 * 🌍  I'm based in Manchester England
 * ✉️  You can contact me at [oamoscovitch@gmail.com](mailto:oamoscovitch@gmail.com)
 * 🚀  I'm currently working on [International Wages Manager App.](http://github.com/Osher-A/InternationalWagesManager )
